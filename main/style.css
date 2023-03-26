@@ -85,7 +85,7 @@ ul li a:hover{
     width: 50%;
     position: absolute;
     display: flex;
-    bottom: 40px;
+    bottom: 20px;
     left: 50%;
     transform:translateX(-50);
 }
@@ -99,6 +99,6 @@ ul li a:hover{
 }
 @media(max-width:660px){
 body{
-    height: 800px;
+    height: 700px;
 }
 }
