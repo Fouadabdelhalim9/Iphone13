@@ -101,4 +101,12 @@ ul li a:hover{
 body{
     height: 700px;
 }
+    .icons{
+    width: 50%;
+    position: absolute;
+    display: flex;
+    bottom: 80px;
+    left: 50%;
+    transform:translateX(-50);
+}
 }
