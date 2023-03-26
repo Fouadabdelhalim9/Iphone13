@@ -85,7 +85,7 @@ ul li a:hover{
     width: 50%;
     position: absolute;
     display: flex;
-    bottom: 20px;
+    bottom: 40px;
     left: 50%;
     transform:translateX(-50);
 }
@@ -96,4 +96,9 @@ ul li a:hover{
 .icons img:hover{
     transform: scale(1.2);
 
+}
+@media(max-width:660px){
+body{
+    height: 800px;
+}
 }
