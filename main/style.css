@@ -97,7 +97,7 @@ ul li a:hover{
     transform: scale(1.2);
 
 }
-@media(max-width:660px){
+@media(max-width:480px){
 body{
     height: 700px;
 }
